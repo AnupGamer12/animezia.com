@@ -28,7 +28,7 @@ $api ="https://zia-api-lime.vercel.app/"; // api repo https://github.com/warlord
 
 $imgk = "7lxs6hrq6l"; // your imagekit id, make your own. instructions in readme.
 
-$ani ="https://animeapi-tau.vercel.app/"; // api repo https://github.com/warlordsnet/consu-api
+$ani ="https://aniwatch-api-v1-0.onrender.com/"; // api repo https://github.com/warlordsnet/consu-api
 
 $banner = "https://cdnzia.pages.dev/images/banner.webp";  //Banner use your own
 ?>
